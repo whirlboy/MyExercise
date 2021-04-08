@@ -3,6 +3,9 @@ package com.yzc.hash;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
+/**
+ * 一致性哈希小demo
+*/
 public class ConsistentHashingWithoutVirtualNode {
     //待添加入Hash环的服务器列表
     private static String[] servers = {"192.168.0.1:8888", "192.168.0.2:8888", 
