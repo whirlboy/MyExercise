@@ -1,4 +1,4 @@
-package com.yzc.gof;
+package com.yzc.gof.SingletonPattern;
 
 public class Singleton3 {
     private volatile static Singleton3 singleton3;

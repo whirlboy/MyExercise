@@ -1,4 +1,4 @@
-package com.yzc.gof;
+package com.yzc.gof.SingletonPattern;
 
 
 /**
