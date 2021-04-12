@@ -3,7 +3,9 @@ package com.yzc.thread;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
-
+/**
+ * 线程池
+*/
 public class ThreadPoolExecutorDemo {
 
     private static final int CORE_POOL_SIZE = 5;
